@@ -1,0 +1,22 @@
+{
+    "name": "amdc",
+    "version": "1.0.1",
+    "description": "Website domain checker to see If It's malware.",
+    "main": "index.js",
+    "keywords": [
+      "i2rys",
+      "amdc",
+      "website-domain-checker",
+      "is-domain-malware",
+      "is-domain-adware",
+      "adware-domain-checker",
+      "malware-domain-checker"
+    ],
+    "repository": "https://github.com/I2rys/AMDC",
+    "author": {
+      "name": "I2rys",
+      "email": "i2rys@protonmail.com",
+      "website": "https://i2rys.xyz"
+    },
+    "license": "MIT"
+  }
